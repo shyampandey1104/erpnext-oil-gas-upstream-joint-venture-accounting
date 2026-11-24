@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include oil_gas_joint_venture *.css
+recursive-include oil_gas_joint_venture *.csv
+recursive-include oil_gas_joint_venture *.html
+recursive-include oil_gas_joint_venture *.ico
+recursive-include oil_gas_joint_venture *.js
+recursive-include oil_gas_joint_venture *.json
+recursive-include oil_gas_joint_venture *.md
+recursive-include oil_gas_joint_venture *.png
+recursive-include oil_gas_joint_venture *.py
+recursive-include oil_gas_joint_venture *.svg
+recursive-include oil_gas_joint_venture *.txt
+recursive-exclude oil_gas_joint_venture *.pyc

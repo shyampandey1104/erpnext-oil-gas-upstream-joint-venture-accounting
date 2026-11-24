@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "erpnext-oil-gas-upstream-joint-venture-accounting"
+authors = [{name = "Shyam Kumar Pandey", email = "shyamkumarpandey1104@gmail.com"}]
+description = "ERPNext Upstream E&P Joint Venture Engine: Joint Interest Billing (JIB), Cash Calls, AFE Ceilings & Profit Petroleum."
+version = "1.0.0"
+readme = "README.md"
+classifiers = ["Framework :: Frappe"]
